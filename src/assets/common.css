@@ -1,0 +1,17 @@
+html,
+body,
+h2 {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.box-card {
+    height: 100%;
+}
+body .el-table th.gutter{
+    display: table-cell!important;
+}
+.el-table {
+    margin-bottom: 25px;
+}
